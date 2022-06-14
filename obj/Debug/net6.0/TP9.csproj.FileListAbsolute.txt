@@ -1,0 +1,15 @@
+C:\Users\facun\OneDrive\Escritorio\TP9\tp09-2022-Facas27\bin\Debug\net6.0\TP9.exe
+C:\Users\facun\OneDrive\Escritorio\TP9\tp09-2022-Facas27\bin\Debug\net6.0\TP9.deps.json
+C:\Users\facun\OneDrive\Escritorio\TP9\tp09-2022-Facas27\bin\Debug\net6.0\TP9.runtimeconfig.json
+C:\Users\facun\OneDrive\Escritorio\TP9\tp09-2022-Facas27\bin\Debug\net6.0\TP9.dll
+C:\Users\facun\OneDrive\Escritorio\TP9\tp09-2022-Facas27\bin\Debug\net6.0\TP9.pdb
+C:\Users\facun\OneDrive\Escritorio\TP9\tp09-2022-Facas27\obj\Debug\net6.0\TP9.csproj.AssemblyReference.cache
+C:\Users\facun\OneDrive\Escritorio\TP9\tp09-2022-Facas27\obj\Debug\net6.0\TP9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\facun\OneDrive\Escritorio\TP9\tp09-2022-Facas27\obj\Debug\net6.0\TP9.AssemblyInfoInputs.cache
+C:\Users\facun\OneDrive\Escritorio\TP9\tp09-2022-Facas27\obj\Debug\net6.0\TP9.AssemblyInfo.cs
+C:\Users\facun\OneDrive\Escritorio\TP9\tp09-2022-Facas27\obj\Debug\net6.0\TP9.csproj.CoreCompileInputs.cache
+C:\Users\facun\OneDrive\Escritorio\TP9\tp09-2022-Facas27\obj\Debug\net6.0\TP9.dll
+C:\Users\facun\OneDrive\Escritorio\TP9\tp09-2022-Facas27\obj\Debug\net6.0\refint\TP9.dll
+C:\Users\facun\OneDrive\Escritorio\TP9\tp09-2022-Facas27\obj\Debug\net6.0\TP9.pdb
+C:\Users\facun\OneDrive\Escritorio\TP9\tp09-2022-Facas27\obj\Debug\net6.0\TP9.genruntimeconfig.cache
+C:\Users\facun\OneDrive\Escritorio\TP9\tp09-2022-Facas27\obj\Debug\net6.0\ref\TP9.dll
